@@ -1,4 +1,4 @@
-# BillWise 💸
+# BillWise
 
 > **Personal bill & subscription tracker** — built over an 8-week roadmap.
 > Track bills, manage subscriptions, extract invoice data with AI, and get email reminders before things go overdue.
